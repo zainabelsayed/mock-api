@@ -36,7 +36,7 @@
   "articles": [
     {
       "id": 1,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "How to create marketing personas that start with empathy",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -46,7 +46,7 @@
     },
     {
       "id": 2,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "Drive ecommerce sales with dynamic ad campaigns on Facebook",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -56,7 +56,7 @@
     },
     {
       "id": 3,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "How Instagram Made Laxatives Cool",
       "articleSubtitle": "An age-old product gets a thoroughly modern, deeply weird, and potentially dangerous makeover",
@@ -66,7 +66,7 @@
     },
     {
       "id": 4,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "Why Is the Internet Obsessed With This Cult Toothpaste?",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -76,7 +76,7 @@
     },
     {
       "id": 5,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "The Science of Aromatherapy",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -86,7 +86,7 @@
     },
     {
       "id": 6,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "What Science Says About Cryotherapy and Cold Gyms",
       "articleSubtitle": "Chilly wellness is trendier than ever",
@@ -96,7 +96,7 @@
     },
     {
       "id": 7,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "UTI Treatment Is in Crisis",
       "articleSubtitle": "They way doctors treat urinary tract infections may be wrong, and antibiotic resistance is growing",
@@ -106,7 +106,7 @@
     },
     {
       "id": 8,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "Drive ecommerce sales with dynamic ad campaigns on Facebook",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -116,7 +116,7 @@
     },
     {
       "id": 9,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "How to create marketing personas that start with empathy",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -126,7 +126,7 @@
     },
     {
       "id": 10,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "How to create marketing personas that start with empathy",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -136,7 +136,7 @@
     },
     {
       "id": 11,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "Drive ecommerce sales with dynamic ad campaigns on Facebook",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -146,7 +146,7 @@
     },
     {
       "id": 12,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "How Instagram Made Laxatives Cool",
       "articleSubtitle": "An age-old product gets a thoroughly modern, deeply weird, and potentially dangerous makeover",
@@ -156,7 +156,7 @@
     },
     {
       "id": 13,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "Why Is the Internet Obsessed With This Cult Toothpaste?",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -166,7 +166,7 @@
     },
     {
       "id": 14,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "The Science of Aromatherapy",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -176,7 +176,7 @@
     },
     {
       "id": 15,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "What Science Says About Cryotherapy and Cold Gyms",
       "articleSubtitle": "Chilly wellness is trendier than ever",
@@ -186,7 +186,7 @@
     },
     {
       "id": 16,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "UTI Treatment Is in Crisis",
       "articleSubtitle": "They way doctors treat urinary tract infections may be wrong, and antibiotic resistance is growing",
@@ -196,7 +196,7 @@
     },
     {
       "id": 17,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "Drive ecommerce sales with dynamic ad campaigns on Facebook",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -206,7 +206,7 @@
     },
     {
       "id": 18,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "How to create marketing personas that start with empathy",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -215,7 +215,7 @@
       "details": "<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</p><p>He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.</p><p>The bedding was hardly able to cover it and seemed ready to slide off any moment.</p><p>His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.</p><p>'What's happened to me? ' he thought. It wasn't a dream.</p><p>His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</p><p>A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.</p><p>It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer.<p></p>Gregor then turned to look out the window at the dull weather.<p></p>Drops of rain could be heard hitting the pane, which made him feel quite sad.<p></p>'How about if I sleep a little bit longer and forget all this nonsense', he thought, but that was something he was unable to do because he was used to sleeping on his right, and in his present state couldn't get into that position.</p><p>However hard he threw himself onto his right, he always rolled back to where he was.</p><p>He must have tried it a hundred times, shut his eyes so that he wouldn't have to look at the floundering legs, and only stopped when he began to feel a mild, dull pain there that he had never felt before.</p>"
     },{
       "id": 19,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "How to create marketing personas that start with empathy",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -225,7 +225,7 @@
     },
     {
       "id": 20,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "Drive ecommerce sales with dynamic ad campaigns on Facebook",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -235,7 +235,7 @@
     },
     {
       "id": 21,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "How Instagram Made Laxatives Cool",
       "articleSubtitle": "An age-old product gets a thoroughly modern, deeply weird, and potentially dangerous makeover",
@@ -245,7 +245,7 @@
     },
     {
       "id": 22,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "Why Is the Internet Obsessed With This Cult Toothpaste?",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -255,7 +255,7 @@
     },
     {
       "id": 23,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "The Science of Aromatherapy",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -265,7 +265,7 @@
     },
     {
       "id": 24,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "What Science Says About Cryotherapy and Cold Gyms",
       "articleSubtitle": "Chilly wellness is trendier than ever",
@@ -275,7 +275,7 @@
     },
     {
       "id": 25,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "UTI Treatment Is in Crisis",
       "articleSubtitle": "They way doctors treat urinary tract infections may be wrong, and antibiotic resistance is growing",
@@ -285,7 +285,7 @@
     },
     {
       "id": 26,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "Drive ecommerce sales with dynamic ad campaigns on Facebook",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -295,7 +295,7 @@
     },
     {
       "id": 27,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "How to create marketing personas that start with empathy",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -304,7 +304,7 @@
       "details": "<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</p><p>He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.</p><p>The bedding was hardly able to cover it and seemed ready to slide off any moment.</p><p>His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.</p><p>'What's happened to me? ' he thought. It wasn't a dream.</p><p>His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</p><p>A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.</p><p>It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer.<p></p>Gregor then turned to look out the window at the dull weather.<p></p>Drops of rain could be heard hitting the pane, which made him feel quite sad.<p></p>'How about if I sleep a little bit longer and forget all this nonsense', he thought, but that was something he was unable to do because he was used to sleeping on his right, and in his present state couldn't get into that position.</p><p>However hard he threw himself onto his right, he always rolled back to where he was.</p><p>He must have tried it a hundred times, shut his eyes so that he wouldn't have to look at the floundering legs, and only stopped when he began to feel a mild, dull pain there that he had never felt before.</p>"
     },{
       "id": 28,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "How to create marketing personas that start with empathy",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -314,7 +314,7 @@
     },
     {
       "id": 29,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "Drive ecommerce sales with dynamic ad campaigns on Facebook",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -324,7 +324,7 @@
     },
     {
       "id": 30,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "How Instagram Made Laxatives Cool",
       "articleSubtitle": "An age-old product gets a thoroughly modern, deeply weird, and potentially dangerous makeover",
@@ -334,7 +334,7 @@
     },
     {
       "id": 31,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "Why Is the Internet Obsessed With This Cult Toothpaste?",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -344,7 +344,7 @@
     },
     {
       "id": 32,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "The Science of Aromatherapy",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -354,7 +354,7 @@
     },
     {
       "id": 33,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "What Science Says About Cryotherapy and Cold Gyms",
       "articleSubtitle": "Chilly wellness is trendier than ever",
@@ -364,7 +364,7 @@
     },
     {
       "id": 34,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "UTI Treatment Is in Crisis",
       "articleSubtitle": "They way doctors treat urinary tract infections may be wrong, and antibiotic resistance is growing",
@@ -374,7 +374,7 @@
     },
     {
       "id": 35,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "Drive ecommerce sales with dynamic ad campaigns on Facebook",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
@@ -384,7 +384,7 @@
     },
     {
       "id": 36,
-      "author": "../../assets/fake-data-images/author.png",
+      "author": "../../assets/images/author.png",
       "authorName": "John Birmingham",
       "articleTitle": "How to create marketing personas that start with empathy",
       "articleSubtitle": "Treating customers with respect earns you loyalty. Dig into marketing personas that reflect real people to gain the most valuable insight.",
